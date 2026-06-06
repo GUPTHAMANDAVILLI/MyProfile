@@ -1,4 +1,4 @@
-# ✨ Gupta Mandavilli | Full Stack Magician & Code Craftsman ✨
+# ✨ Guptha Mandavilli | Full Stack Magician & Code Craftsman ✨
 
 <div align="center">
   
