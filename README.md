@@ -134,7 +134,7 @@ I believe every project is an opportunity to:
 
 ### ✨ *"Every great developer started where you are now. Keep coding, keep learning, keep being magical!"* ✨
 
-**Made with 💻 and ✨ by Gupta Mandavilli**
+**Made with 💻 and ✨ by Guptha Mandavilli**
 
 </div>
 
