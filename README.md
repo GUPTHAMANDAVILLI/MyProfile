@@ -1,144 +1,84 @@
-# ✨ Guptha Mandavilli | Full Stack Magician & Code Craftsman ✨
+# Guptha Mandavilli
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=GUPTHAMANDAVILLI&style=flat-square&color=blue)
-  ![GitHub followers](https://img.shields.io/github/followers/GUPTHAMANDAVILLI?style=flat-square&color=purple)
-
-  ```
-  🚀 Transforming ideas into digital realities with creativity & code
-  ✨ Building elegant solutions | 🎨 Crafting beautiful experiences
-  🔮 Passionate developer with a touch of innovation magic
-  ```
-
-</div>
+**Full-Stack Developer — building reliable web products with clear UX, practical architecture, and execution discipline.**
 
 ---
 
-## 🎭 About Me - The Story Behind the Code
+## Profile
 
-I'm a versatile developer who believes in **blending creativity with technology**. From building intelligent bus reservation systems to crafting professional healthcare portfolios, I turn concepts into compelling digital experiences. My code doesn't just work—it *speaks*, *inspires*, and *delights*.
+I design and build software that is useful in the real world: clean interfaces, dependable backend logic, and maintainable delivery workflows.
 
-### 🌟 What Makes Me Magical?
-- ✨ **Full-Stack Sorcery** - Web to backend, I master them all
-- 🎨 **Design Thinking** - Every pixel has purpose, every interaction matters
-- 🧠 **Innovative Mind** - Smart algorithms meet creative solutions
-- 🔧 **Problem Solver** - Complex challenges → Elegant solutions
-- 🌈 **Visual Storyteller** - UI/UX that captivates and converts
+- Focus: full-stack web applications
+- Strengths: frontend clarity, problem decomposition, implementation speed
+- Mindset: pragmatic, product-aware, quality-first
 
 ---
 
-## 🚀 Featured Spells & Incantations (Projects)
+## Featured Projects
 
-### 🏥 **Doctor Portfolio** - Healthcare Excellence Platform
-> *"Building credibility, one profile at a time"*
-- 💼 Professional portfolio for healthcare professionals
-- 🎯 Showcase expertise, qualifications & services
-- 🏆 Patient trust visualization
-- 🚀 Live: [doctor-portfolio-pink.vercel.app](https://doctor-portfolio-pink.vercel.app)
-- 🔗 [View Repository](https://github.com/GUPTHAMANDAVILLI/Doctor_Portfolio)
+### Doctor Portfolio
+Professional portfolio platform for healthcare practitioners to present qualifications, services, and trust signals in a structured format.
 
-### 🚌 **G_Bus** - Intelligent Bus Reservation System
-> *"Where AI meets transportation"*
-- 🧠 Smart gender-aware seating algorithm
-- 🎨 Vibe-coded terminal experience with ASCII animations
-- 🎫 Digital ticket management with user authentication
-- 🔐 Color-coded seat grids for intuitive booking
-- 💻 Built with **Java** | Console-Based Magic
-- 🔗 [View Repository](https://github.com/GUPTHAMANDAVILLI/G_Bus)
+- Purpose: improve credibility and discoverability for independent doctors
+- Contribution: interface structure, presentation flow, deployment-ready delivery
+- Live: [doctor-portfolio-pink.vercel.app](https://doctor-portfolio-pink.vercel.app)
+- Repository: [Doctor_Portfolio](https://github.com/GUPTHAMANDAVILLI/Doctor_Portfolio)
 
-### 🎬 **IPL Web Projects** - Cricket Enthusiasm Hub
-> *"Celebrating the spirit of cricket"*
-- 📊 Interactive IPL statistics & analytics
-- 🎯 Dynamic web experience
-- 🔗 [IPL-WEB](https://github.com/GUPTHAMANDAVILLI/IPL-WEB) | [IPL-Web-Master](https://github.com/GUPTHAMANDAVILLI/IPL-Web-Master)
+### G_Bus
+Console-based bus reservation system in Java with seat allocation logic and ticket flow management.
 
----
+- Purpose: streamline reservation and seat assignment in constrained environments
+- Contribution: booking workflow, gender-aware seating logic, terminal UX refinements
+- Stack: Java
+- Repository: [G_Bus](https://github.com/GUPTHAMANDAVILLI/G_Bus)
 
-## 🛠️ Technical Arsenal
+### IPL Web Projects
+Web projects focused on IPL data presentation and fan-facing interaction patterns.
 
-<div align="center">
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### ⚙️ Backend & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+- Purpose: present cricket information through accessible, interactive web pages
+- Contribution: layout, data presentation structure, frontend implementation
+- Repositories: [IPL-WEB](https://github.com/GUPTHAMANDAVILLI/IPL-WEB) · [IPL-Web-Master](https://github.com/GUPTHAMANDAVILLI/IPL-Web-Master)
 
 ---
 
-## 📊 GitHub Magic Metrics
+## Skills
 
-<div align="center">
+### Languages
+`Java` `JavaScript` `HTML` `CSS`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUPTHAMANDAVILLI&show_icons=true&theme=radical&hide_border=true&count_private=true)
+### Frontend
+`React` `Tailwind CSS`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GUPTHAMANDAVILLI&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Current Focus & Vision
-
-- 🌍 Building scalable, user-centric applications
-- 🤖 Exploring AI integration in everyday solutions
-- 📱 Mobile-first design thinking
-- 🚀 Open-source contribution
-- 🎓 Continuous learning & innovation
+### Tools & Workflow
+`Git` `GitHub` `Vercel`
 
 ---
 
-## 💫 Philosophy
+## GitHub Snapshot
 
-> **"Code is poetry. Design is magic. Together, they create experiences that move people."**
+<sub>Supplementary metrics:</sub>
 
-I believe every project is an opportunity to:
-- 🎨 Create something beautiful
-- 💡 Solve real problems
-- 🌱 Grow as a developer
-- ✨ Leave a positive impact
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/GUPTHAMANDAVILLI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://doctor-portfolio-pink.vercel.app)
-
-</div>
-
-### 🌟 Quick Stats
-- 📚 **Projects**: Diverse portfolio from web apps to system design
-- 🔥 **Passion**: Full-stack development & creative problem-solving
-- 🎯 **Goal**: Building products that matter
-- ⚡ **Mantra**: "Write code that speaks"
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=GUPTHAMANDAVILLI&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUPTHAMANDAVILLI&layout=compact&hide_border=true" alt="Top Languages" height="140" />
+</p>
 
 ---
 
-<div align="center">
+## Contact
 
-### ✨ *"Every great developer started where you are now. Keep coding, keep learning, keep being magical!"* ✨
-
-**Made with 💻 and ✨ by Guptha Mandavilli**
-
-</div>
+- GitHub: [@GUPTHAMANDAVILLI](https://github.com/GUPTHAMANDAVILLI)
+- Portfolio: [doctor-portfolio-pink.vercel.app](https://doctor-portfolio-pink.vercel.app)
+- Email: Currently not listed publicly. Contact me via GitHub to connect.
 
 ---
 
-## 📌 Fun Fact
-*I don't just write code... I orchestrate symphonies of logic and creativity! 🎼💻*
+## Call to Action
+
+If you're building a product and need a developer who can move from concept to production with strong design judgment and clean implementation, let's collaborate.
+
+**Open to internships, freelance projects, and focused product collaborations.**
+
+---
+
+**Guptha Mandavilli — shipping thoughtful software with precision.**
