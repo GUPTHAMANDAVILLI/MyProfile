@@ -1,144 +1,147 @@
-# ✨ Guptha Mandavilli | Full Stack Magician & Code Craftsman ✨
+# Guptha Mandavilli
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=GUPTHAMANDAVILLI&style=flat-square&color=blue)
-  ![GitHub followers](https://img.shields.io/github/followers/GUPTHAMANDAVILLI?style=flat-square&color=purple)
 
-  ```
-  🚀 Transforming ideas into digital realities with creativity & code
-  ✨ Building elegant solutions | 🎨 Crafting beautiful experiences
-  🔮 Passionate developer with a touch of innovation magic
-  ```
+  <h1>Brutal. Precise. Handcrafted.</h1>
+  <p><strong>Full Stack Developer</strong> building polished web experiences, practical systems, and clean interfaces.</p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=GUPTHAMANDAVILLI&style=flat-square&color=111111" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/GUPTHAMANDAVILLI?style=flat-square&color=111111" alt="GitHub followers" />
+  </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=24&pause=1000&color=111111&center=true&vCenter=true&width=900&lines=Crafting+interfaces+with+intent;Turning+ideas+into+working+products;Brutal+design.+Real+execution.+Clean+code." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎭 About Me - The Story Behind the Code
+## About
 
-I'm a versatile developer who believes in **blending creativity with technology**. From building intelligent bus reservation systems to crafting professional healthcare portfolios, I turn concepts into compelling digital experiences. My code doesn't just work—it *speaks*, *inspires*, and *delights*.
+I build software with a focus on clarity, performance, and visual discipline. My work blends frontend craft, backend logic, and product thinking — from healthcare portfolios to transport systems and interactive web projects.
 
-### 🌟 What Makes Me Magical?
-- ✨ **Full-Stack Sorcery** - Web to backend, I master them all
-- 🎨 **Design Thinking** - Every pixel has purpose, every interaction matters
-- 🧠 **Innovative Mind** - Smart algorithms meet creative solutions
-- 🔧 **Problem Solver** - Complex challenges → Elegant solutions
-- 🌈 **Visual Storyteller** - UI/UX that captivates and converts
-
----
-
-## 🚀 Featured Spells & Incantations (Projects)
-
-### 🏥 **Doctor Portfolio** - Healthcare Excellence Platform
-> *"Building credibility, one profile at a time"*
-- 💼 Professional portfolio for healthcare professionals
-- 🎯 Showcase expertise, qualifications & services
-- 🏆 Patient trust visualization
-- 🚀 Live: [doctor-portfolio-pink.vercel.app](https://doctor-portfolio-pink.vercel.app)
-- 🔗 [View Repository](https://github.com/GUPTHAMANDAVILLI/Doctor_Portfolio)
-
-### 🚌 **G_Bus** - Intelligent Bus Reservation System
-> *"Where AI meets transportation"*
-- 🧠 Smart gender-aware seating algorithm
-- 🎨 Vibe-coded terminal experience with ASCII animations
-- 🎫 Digital ticket management with user authentication
-- 🔐 Color-coded seat grids for intuitive booking
-- 💻 Built with **Java** | Console-Based Magic
-- 🔗 [View Repository](https://github.com/GUPTHAMANDAVILLI/G_Bus)
-
-### 🎬 **IPL Web Projects** - Cricket Enthusiasm Hub
-> *"Celebrating the spirit of cricket"*
-- 📊 Interactive IPL statistics & analytics
-- 🎯 Dynamic web experience
-- 🔗 [IPL-WEB](https://github.com/GUPTHAMANDAVILLI/IPL-WEB) | [IPL-Web-Master](https://github.com/GUPTHAMANDAVILLI/IPL-Web-Master)
+**What I care about**
+- Clean architecture
+- Strong visual hierarchy
+- Reliable user experiences
+- Purposeful motion and interaction
+- Code that feels intentional
 
 ---
 
-## 🛠️ Technical Arsenal
+## Selected Work
+
+### Doctor Portfolio
+A professional healthcare portfolio designed to present expertise with confidence and trust.
+
+- Live: [doctor-portfolio-pink.vercel.app](https://doctor-portfolio-pink.vercel.app)
+- Repository: [Doctor_Portfolio](https://github.com/GUPTHAMANDAVILLI/Doctor_Portfolio)
+- Focus: professional presentation, credibility, and user-friendly browsing
+
+### G_Bus
+A Java-based bus reservation system built around structured booking logic and a console-driven experience.
+
+- Repository: [G_Bus](https://github.com/GUPTHAMANDAVILLI/G_Bus)
+- Focus: reservation flow, ticket management, and clear seat selection logic
+
+### IPL Web Projects
+Cricket-focused web projects built to present data and interaction in a direct, engaging way.
+
+- Repositories: [IPL-WEB](https://github.com/GUPTHAMANDAVILLI/IPL-WEB) | [IPL-Web-Master](https://github.com/GUPTHAMANDAVILLI/IPL-Web-Master)
+- Focus: sports analytics, web interaction, and dynamic presentation
+
+---
+
+## Stack
+
+<table>
+  <tr>
+    <td valign="top">
+      <strong>Languages</strong><br><br>
+      <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
+    </td>
+    <td valign="top">
+      <strong>Frontend</strong><br><br>
+      <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind CSS" />
+    </td>
+    <td valign="top">
+      <strong>Tools</strong><br><br>
+      <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Motion / Visual Strip
 
 <div align="center">
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### ⚙️ Backend & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
 
 ---
 
-## 📊 GitHub Magic Metrics
+## GitHub Metrics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUPTHAMANDAVILLI&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=GUPTHAMANDAVILLI&show_icons=true&theme=graywhite&hide_border=true&title_color=111111&text_color=111111&icon_color=111111" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GUPTHAMANDAVILLI&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUPTHAMANDAVILLI&layout=compact&theme=graywhite&hide_border=true&title_color=111111&text_color=111111" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus & Vision
+## Current Focus
 
-- 🌍 Building scalable, user-centric applications
-- 🤖 Exploring AI integration in everyday solutions
-- 📱 Mobile-first design thinking
-- 🚀 Open-source contribution
-- 🎓 Continuous learning & innovation
-
----
-
-## 💫 Philosophy
-
-> **"Code is poetry. Design is magic. Together, they create experiences that move people."**
-
-I believe every project is an opportunity to:
-- 🎨 Create something beautiful
-- 💡 Solve real problems
-- 🌱 Grow as a developer
-- ✨ Leave a positive impact
+- Building scalable, user-centric applications
+- Exploring AI-assisted workflows and product ideas
+- Improving mobile-first and responsive design systems
+- Contributing to open-source with practical impact
+- Learning continuously, shipping consistently
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## Design Philosophy
+
+> Code should be functional, readable, and visually intentional.
+
+I aim to build work that is:
+- Minimal, but not empty
+- Bold, but not noisy
+- Realistic, but polished
+- Handcrafted, not generic
+
+---
+
+## Contact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/GUPTHAMANDAVILLI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://doctor-portfolio-pink.vercel.app)
-
-</div>
-
-### 🌟 Quick Stats
-- 📚 **Projects**: Diverse portfolio from web apps to system design
-- 🔥 **Passion**: Full-stack development & creative problem-solving
-- 🎯 **Goal**: Building products that matter
-- ⚡ **Mantra**: "Write code that speaks"
-
----
-
-<div align="center">
-
-### ✨ *"Every great developer started where you are now. Keep coding, keep learning, keep being magical!"* ✨
-
-**Made with 💻 and ✨ by Guptha Mandavilli**
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GUPTHAMANDAVILLI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://doctor-portfolio-pink.vercel.app)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
 ---
 
-## 📌 Fun Fact
-*I don't just write code... I orchestrate symphonies of logic and creativity! 🎼💻*
+<div align="center">
+
+**Built with intention. Designed to feel real.**
+
+</div>
