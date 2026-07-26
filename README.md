@@ -95,6 +95,28 @@ My goal is to become a highly skilled Full Stack Developer and contribute to imp
 
 ---
 
+# 🚀 Recent Featured Project
+
+## 👨‍💼 Employee Management System
+
+A full-stack **Employee Management System** built with **Angular 22** on the frontend and **Node.js / Express** on the backend, powered by **PostgreSQL** with a smart **in-memory fallback**.
+
+### 🔧 Tech Stack
+- **Frontend:** Angular 22, TypeScript, RxJS
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL (with in-memory fallback)
+
+### ✨ Highlights
+- 📋 Employee listing with pagination
+- 🔍 Real-time search by name/email/department
+- ➕ Add, ✏️ edit, 🗑️ delete employees
+- ✅ Full server-side validation
+- ⚡ Works even when PostgreSQL is unavailable
+
+🔗 **Repository:** [employee-management](https://github.com/GupthaMandavilli/employee-management)
+
+---
+
 <div align="center">
 
 # ⚡ "Code. Learn. Build. Repeat."
