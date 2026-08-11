@@ -1,11 +1,11 @@
 <!-- ========================================================= -->
-<!--                CYBERPUNK GITHUB PROFILE                  -->
-<!--            Replace GupthaMandavilli with yours           -->
+<!--                CYBERPUNK GITHUB PROFILE                   -->
+<!--            Replace SarabhayyaGupthaMandavilli with yours  -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:6C63FF,100:8A2BE2&text=GUPTHA%20MANDAVILLI&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:6C63FF,100:8A2BE2&text=SARABHAYYA%20GUPTHA&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <br>
 
@@ -31,7 +31,7 @@
 
 ```javascript
 const developer = {
-    name: "Guptha Mandavilli",
+    name: "Sarabhayya Guptha Mandavilli",
     role: "Software Developer",
     location: "India 🇮🇳",
 
@@ -84,7 +84,7 @@ My goal is to become a highly skilled Full Stack Developer and contribute to imp
 
 | 🚀 | Information |
 |-----|------------|
-| 👤 Name | Guptha Mandavilli |
+| 👤 Name | Sarabhayya Guptha Mandavilli |
 | 💻 Role | Software Developer |
 | 🌍 Location | India |
 | 🎓 Degree | B.Tech Computer Science |
